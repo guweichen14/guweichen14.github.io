@@ -13,7 +13,6 @@ Hi, I am Weichen Gu, a PhD student at University of New Hampshire.
 My advisor is Liming Ge.
 My research interests include number theory and quantum information. 
 Here is my [CV](https://github.com/guweichen14/guweichen14.github.io/blob/master/files/cv-WG-202401.pdf) (last updated Jan 2024).
-<a href="https://github.com/guweichen14/guweichen14.github.io/blob/master/files/cv-WG-202401.pdf" target="_blank">PDF.</a>
 
 Contact
 ======
