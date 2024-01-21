@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Published
+## Published
 
 5. Bu K, **Gu W**, Jaffe A. Quantum Entropy and Central Limit Theorem[J]. Proceedings of the National Academy of Sciences, 2023, 120(25): e2304589120.
 
@@ -17,6 +17,6 @@ author_profile: true
     
 1. **Gu W**, Wu W, Yuan W. Transition Probability Preserving Maps on A Grassmann Space in a Semifinite factor [J]. Journal of Mathematical Analysis and Applications, 2020, 487(1): 123957.
 
-# In Review
+## In Review
 
 1. Bu K, **Gu W**, Jaffe A. 2023. Discrete Quantum Gaussians and Central Limit Theorem. arXiv preprint arXiv:2302.08423
