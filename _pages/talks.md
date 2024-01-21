@@ -7,7 +7,7 @@ author_profile: true
 
 * Spring 2024. **Quantum Convolution and Central Limit Theorem**. JMM 2024
 
-* Fall 2023. **M\"{o}bius disjointness for a class of exponential functions**. Number Theory Seminar, Brigham Young University.
+* Fall 2023. **Möbius disjointness for a class of exponential functions**. Number Theory Seminar, Brigham Young University.
 
 * Summer 2023. **Higher Ordered Quantum Fourier Analysis**. Mathematical Picture Language Project, Harvard.
 
