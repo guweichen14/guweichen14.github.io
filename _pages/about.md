@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 
-Hi, I am Weichen Gu, a PhD student at University of New Hampshire. 
-My advisor is Liming Ge.
-My research interests include number theory and quantum information. 
-Here is my [CV](http://guweichen14.github.io/files/cv-WG-202401.pdf) (last updated Jan 2024).
+Hi, I am Weichen Gu, a Zassenhaus Assistant Professor at the Ohio State University. 
+My research interests include quantum information, operator algebra and number theory. 
+Here is my [CV](http://guweichen14.github.io/files/cv-WG-202507.pdf) (last updated July 2025).
 
 Contact
 ======
-Email: weichen.gu@unh.edu
+Email: gu.1213@osu.edu
