@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+## The Ohio State Univerisity (as instructor)
+Spring 2025: MATH 3345 Foundation of Higher Mathematics
+
+Fall 2024: MATH 2415 ODE and PDE
 
 ## University of New Hampshire (as Teaching Assistant)
 Spring 2023: MATH 528 Multidimensional Calculus 
