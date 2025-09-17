@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-## The Ohio State Univerisity (as instructor)
+## The Ohio State University (as instructor)
 Spring 2025: MATH 3345 Foundation of Higher Mathematics
 
 Fall 2024: MATH 2415 ODE and PDE
 
-## University of New Hampshire (as Teaching Assistant)
+## University of New Hampshire (as teaching assistant)
 Spring 2023: MATH 528 Multidimensional Calculus 
 
 Fall 2022: MATH 426 Calculus II 
@@ -30,6 +30,6 @@ Spring 2020: MATH 527 Differential Equations/Linear Algebra
 
 Fall 2019: MATH 527 Differential Equations/Linear Algebra 
 
-## University of Chinese Academy of Sciences (as Teaching Assistant)
+## University of Chinese Academy of Sciences (as teaching assistant)
 
 Fall 2016: Linear Algebra
